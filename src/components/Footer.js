@@ -8,9 +8,7 @@ export default function	Footer(){
         <MDBRow>
           <MDBCol md="6">
             <h5 className="title">Footer Content</h5>
-            <p>
-              Here you can use rows and columns here to organize your footer
-              content.
+            <p>Lorem ipsum, dolor, sit amet consectetur adipisicing elit. Aperiam quo eveniet autem quidem est tempore iste tempora, sed dolor reiciendis, quae dolore quasi harum hic veritatis voluptatum porro et fugit.
             </p>
           </MDBCol>
           <MDBCol md="6">
